@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+.env
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
